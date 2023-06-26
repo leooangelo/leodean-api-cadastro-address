@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "0RsqkfbvLFjHQDtqw0q1XmcnAavKUuacFZz40DafFlQw9K7oUlC0GeIyA6Z9nGBPU881UW8mEggZteM86IAEQA==",
+  "success": true,
+  "projectFilePath": "E:\\Projetos\\Develine\\Address\\develine-ecommerce-ms-address\\MS.Address.CrossCutting\\MS.Address.CrossCutting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\firebaseadmin\\2.2.0\\firebaseadmin.2.2.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\google.api.gax\\3.2.0\\google.api.gax.3.2.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\google.api.gax.rest\\3.2.0\\google.api.gax.rest.3.2.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\google.apis\\1.49.0\\google.apis.1.49.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\google.apis.auth\\1.49.0\\google.apis.auth.1.49.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\google.apis.core\\1.49.0\\google.apis.core.1.49.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\timezoneconverter\\5.0.0\\timezoneconverter.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

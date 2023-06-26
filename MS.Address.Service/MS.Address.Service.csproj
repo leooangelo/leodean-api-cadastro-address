@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="AutoMapper" Version="10.1.1" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="Interfaces\" />
+	  <Folder Include="Integration\" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\MS.Address.Domain\MS.Address.Domain.csproj" />
+	  <ProjectReference Include="..\MS.Address.Infra.DataAccess\MS.Address.Infra.DataAccess.csproj" />
+	</ItemGroup>
+
+</Project>
